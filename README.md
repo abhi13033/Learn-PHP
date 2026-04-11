@@ -38,7 +38,19 @@ I will upload my daily learning.
   - Goto Statement
 
 - 📁 06 Functions
-  - User-defined Functions
+  - functions.php (User-defined functions)
+  - local-variable.php
+  - recursive-function.php
+
+- 📁 07 Array
+  - array.php
+
+
+
+  ## 🚀 Latest Updates
+
+- Added Functions (User-defined, Local Variables, Recursion)
+- Added Array Basics
 
 ---
 
